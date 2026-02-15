@@ -1,4 +1,10 @@
 ## Hi there 👋
+### Моя активность:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com">
+</picture>
 
 <!--
 **slivchansky666/slivchansky666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
