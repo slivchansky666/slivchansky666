@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Snake](https://raw.githubusercontent.com)
+<img src="https://raw.githubusercontent.com" alt="Snake animation" />
 
 <!--
 **slivchansky666/slivchansky666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
