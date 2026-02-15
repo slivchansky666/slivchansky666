@@ -1,4 +1,4 @@
-## Hi there 👋
+## tifc - discord
 ![Snake](https://raw.githubusercontent.com/slivchansky666/slivchansky666/output/snake.svg)
 
 
